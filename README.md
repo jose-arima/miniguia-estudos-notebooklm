@@ -139,3 +139,16 @@ Além do contexto acadêmico, a experiência evidenciou aplicações práticas p
 
 Dessa forma, a ferramenta não se limita ao aprendizado individual. Ela pode atuar como um acelerador de conhecimento organizacional, facilitando a compreensão de temas complexos, reduzindo o tempo de pesquisa e tornando o acesso à informação mais eficiente para profissionais e equipes.
 
+### Observação sobre Uso Corporativo
+
+Embora o NotebookLM seja uma ferramenta poderosa para gestão do conhecimento e aprendizado organizacional, seu uso em ambientes corporativos deve observar as políticas de segurança da informação e governança de dados de cada empresa.
+
+Antes de utilizar documentações internas, processos, relatórios ou qualquer informação corporativa, é recomendável avaliar aspectos como:
+
+* Classificação da informação.
+* Regras de confidencialidade.
+* Proteção de dados pessoais e sensíveis.
+* Anonimização de informações quando aplicável.
+* Conformidade com políticas internas e requisitos regulatórios.
+
+A adoção da ferramenta deve sempre seguir as diretrizes de segurança, privacidade e compliance estabelecidas pela organização, garantindo que o uso da inteligência artificial agregue valor ao negócio sem comprometer a proteção das informações.
