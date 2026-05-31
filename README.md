@@ -1,6 +1,6 @@
 # Bitcoin: Estudo com NotebookLM
 
-## 🔗 Acesso ao NotebookLM
+## Acesso ao NotebookLM
 
 **Acesse o caderno temático diretamente no NotebookLM:**
 https://notebooklm.google.com/notebook/f87d5443-49b3-4f42-b822-fcad21533a7d?authuser=1
